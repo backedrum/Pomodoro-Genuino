@@ -1,16 +1,17 @@
 ## Pomodoro-Genuino is a Genuino based Pomodoro timer
 
-Pomodoro-Genuino is implementation of famous Pomodoro timer based on Genuino hardware.<br>
+Pomodoro-Genuino is an implementation of the famous Pomodoro timer based on Genuino hardware.<br>
 Root folder will contain the most recent version of Pomodoro timer with the description of both hardware and software parts.<br>
-As it always comes with both hard+soft parts, a current version of the timer will go into a respective subfolder,
-once a newer version of hardware part is released.<br>
+
+As it always comes with both hard+soft parts, a current version of the timer will go into the respective subfolder
+ once a newer version of hardware part is released.<br>
 
 Current version of Pomodoro-Genuino is initial one and is implemented in a form of traffic light.<br>
-Red bulb refers to Task mode, task lasts 25 minutes and red bulb will start blinking with high frequency after this time is up.<br>
-Yellow bulb refers to Break mode that lasts 5 minutes and it will start blinking after break time is up.<br>
-Switch is used for next mode set. Device starts in Idle mode which is indicated by the lightened green bulb.  
+Red bulb refers to *Task mode*, task lasts 25 minutes and red bulb will start blinking with high frequency after this time is up.<br>
+Yellow bulb refers to *Break mode* that lasts 5 minutes and it will start blinking after break time is up.<br>
+Switch is used for next mode set. Device starts in *Idle* mode which is indicated by the lightened green bulb.<br>  
 
-Please refer to HARD.MD for hardware assembly related details.
+Please refer to HARDWARE.MD for hardware assembly related details.
 
 ### Up and running
 Assemble hardware part and put the software sketch into Arduino IDE.<br>
