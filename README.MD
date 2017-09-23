@@ -11,6 +11,8 @@ Red bulb refers to *Task mode*, task lasts 25 minutes and red bulb will start bl
 Yellow bulb refers to *Break mode* that lasts 5 minutes and it will start blinking after break time is up.<br>
 Switch is used for next mode set. Device starts in *Idle* mode which is indicated by the lightened green bulb.<br>  
 
+![pomodoro_v01](https://user-images.githubusercontent.com/3159236/30777583-d734e972-a0bd-11e7-830e-eab160993eaa.jpg)
+
 Please refer to HARDWARE.MD for hardware assembly related details.
 
 ### Up and running
