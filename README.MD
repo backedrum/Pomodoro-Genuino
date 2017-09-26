@@ -7,6 +7,10 @@ once a newer version of hardware part is released.<br>
 
 Current version of the Pomodoro-Genuino timer device uses LCD display that shows a recent message related to the moment.
 Device also has traffic LEDs (bulbs) that refer to device modes.<br>
+
+![img_1676](https://user-images.githubusercontent.com/3159236/30887439-bdbb3f36-a31b-11e7-99fb-d6045a6b4000.JPG)
+
+
 Red bulb refers to Task mode, task lasts 25 minutes and red bulb will start blinking with high frequency after this time is up.<br>
 Yellow bulb refers to Break mode that lasts 5 minutes and it will start blinking after break time is up.<br>
 Switch is used for next mode set. Device starts in Idle mode which is indicated by the lightened green bulb.  
